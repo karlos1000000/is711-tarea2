@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Limpiar archivos temporales",
+    "description": "Debo limpiar los archivos temporales de mi pc, porque está muy lenta",
+    "completada": false,
+    "fecha_creacion": "2024-11-02T06:29:12.102Z"
+  },
+  {
+    "id": 2,
+    "title": "Ir al supermercado",
+    "description": "Debo ir al supermercado para comprar cosas importantes",
+    "completada": false,
+    "fecha_creacion": "2024-11-02T06:45:41.031Z"
+  },
+  {
+    "id": 3,
+    "title": "Buscar una aguja",
+    "description": "Necesito buscar una aguja en un pajar, será tan dificil...",
+    "completada": true,
+    "fecha_creacion": "2024-11-02T06:48:06.008Z"
+  }
+]
